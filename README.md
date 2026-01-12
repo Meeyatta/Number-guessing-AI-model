@@ -1,6 +1,9 @@
 # Number guessing AI model
 Ai model for guessing numbers based on user's drawings.
 
+## How to use:
+Download the zip and launch "NumberGuesingAiModel.Ink"
+
 ## Main features:
   -3x5 Board for drawing numbers from 0 to 9.\
   -"Guess" button for guessing the current written number.\
