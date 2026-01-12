@@ -1,0 +1,32 @@
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\bin\Debug\Neyro.exe.config
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\bin\Debug\Neyro.exe
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\bin\Debug\Neyro.pdb
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\obj\Debug\Neyro.csproj.AssemblyReference.cache
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\obj\Debug\Neyro.Form1.resources
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\obj\Debug\Neyro.Properties.Resources.resources
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\obj\Debug\Neyro.csproj.GenerateResource.cache
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\obj\Debug\Neyro.csproj.CoreCompileInputs.cache
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\obj\Debug\Neyro.exe
+C:\Users\ilyam\OneDrive\Рабочий стол\Нейронка\Neyro\Neyro\obj\Debug\Neyro.pdb
+D:\AiModel_outside\Neyro\bin\Debug\Neyro.exe.config
+D:\AiModel_outside\Neyro\bin\Debug\Neyro.exe
+D:\AiModel_outside\Neyro\bin\Debug\Neyro.pdb
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.csproj.AssemblyReference.cache
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.exe.config
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.Form1.resources
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.Properties.Resources.resources
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.csproj.GenerateResource.cache
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.csproj.CoreCompileInputs.cache
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.exe
+D:\AiModel_outside\Neyro\obj\Debug\Neyro.pdb
+C:\AiModel_new\Neyro\bin\Debug\Neyro.exe.config
+C:\AiModel_new\Neyro\bin\Debug\Neyro.exe
+C:\AiModel_new\Neyro\bin\Debug\Neyro.pdb
+C:\AiModel_new\Neyro\obj\Debug\Neyro.csproj.AssemblyReference.cache
+C:\AiModel_new\Neyro\obj\Debug\Neyro.exe.config
+C:\AiModel_new\Neyro\obj\Debug\Neyro.Form1.resources
+C:\AiModel_new\Neyro\obj\Debug\Neyro.Properties.Resources.resources
+C:\AiModel_new\Neyro\obj\Debug\Neyro.csproj.GenerateResource.cache
+C:\AiModel_new\Neyro\obj\Debug\Neyro.csproj.CoreCompileInputs.cache
+C:\AiModel_new\Neyro\obj\Debug\Neyro.exe
+C:\AiModel_new\Neyro\obj\Debug\Neyro.pdb
